@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://gemini.google.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:00:51"
+  },
+  {
+    "url": "https://gemini.google.com/",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:08:31"
+  },
+  {
+    "url": "https://gemini.google.com/",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:08:37"
+  },
+  {
+    "url": "bopsecrets.org/rexroth/cr/1.htm",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:09:28"
+  },
+  {
+    "url": "bopsecrets.org/rexroth/cr/1.htm",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:09:29"
+  },
+  {
+    "url": "bopsecrets.org/rexroth/cr/1.htm",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:09:31"
+  },
+  {
+    "url": "bopsecrets.org/rexroth/cr/1.htm",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:09:39"
+  },
+  {
+    "url": "v",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:09:50"
+  },
+  {
+    "url": "yourbittorrent.com/?q=anthony-hamilton-soulife",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:09:54"
+  },
+  {
+    "url": "https://gemini.google.com/",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:10:11"
+  },
+  {
+    "url": "https://gemini.google.com/",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:10:12"
+  },
+  {
+    "url": "https://gemini.google.com/",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:10:13"
+  },
+  {
+    "url": "https://gemini.google.com/",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:10:13"
+  },
+  {
+    "url": "example.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:13:03"
+  },
+  {
+    "url": "example.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:13:04"
+  },
+  {
+    "url": "grish.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:20:56"
+  },
+  {
+    "url": "gemini.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:21:06"
+  },
+  {
+    "url": "gemini.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:21:07"
+  },
+  {
+    "url": "chatgpt.com",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 16:21:18"
+  },
+  {
+    "url": "https://chatgpt.com/c/696ceeda-04d4-8322-ba31-d48f8b8f51f6",
+    "result": "Benign",
+    "reason": "Looks safe",
+    "time": "2026-01-19 16:52:28"
+  },
+  {
+    "url": "https://gemini.google.com/app/cf4806e5b79ab94e",
+    "result": "Malicious",
+    "reason": "Suspicious pattern",
+    "time": "2026-01-19 19:39:52"
+  }
+]
